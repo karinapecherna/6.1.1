@@ -1,0 +1,49 @@
+﻿  UnitTest1.cpp
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(14,18): error C3861: 'rand': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(20,9): error C2065: 'cout': undeclared identifier
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(20,17): error C2065: 'endl': undeclared identifier
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(23,5): error C2065: 'cout': undeclared identifier
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(23,13): error C3861: 'setw': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(49,5): error C3861: 'assert': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(52,5): error C3861: 'assert': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(55,5): error C3861: 'assert': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(56,5): error C3861: 'assert': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(57,5): error C3861: 'assert': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(58,5): error C3861: 'assert': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(59,5): error C3861: 'assert': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(61,5): error C2065: 'cout': undeclared identifier
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(61,36): error C2065: 'endl': undeclared identifier
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(65,11): error C3861: 'time': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab6.1.2\UnitTest1\UnitTest1.cpp(65,5): error C3861: 'srand': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
